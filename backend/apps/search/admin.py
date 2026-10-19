@@ -1,0 +1,1 @@
+# Search is query-only.
